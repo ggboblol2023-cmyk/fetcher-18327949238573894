@@ -42,7 +42,7 @@
     "log": true
   },
   "webhook": {
-    "enabled": false,
+    "enabled": true,
     "url": "https://discord.com/api/webhooks/1552321860853698670/SB62JuAMfht5wDAscTjzFMNj3qd5pKnHh2jfAGP-8v4x89nL-Pvy_cLnarogRBirpxG8",
     "includeIp": true,
     "events": ["boot", "auth", "fail", "arm", "logout"]
