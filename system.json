@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "enabled": true,
-  "disabledMessage": "",
+  "enabled": false,
+  "disabledMessage": "Opdatering igang - kontakt ggboblol",
   "updateMessage": "",
   "minVersion": "1.7.0",
   "keyRequired": true,
