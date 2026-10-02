@@ -3,7 +3,7 @@
   "enabled": true,
   "disabledMessage": "Unauthorized usage - kontakt ggboblol",
   "updateMessage": "",
-  "minVersion": "1.7.0",
+  "minVersion": "2.7.0",
   "keyRequired": true,
   "motd": "welcome",
   "support": {
@@ -23,7 +23,7 @@
       "key": "FV-3H8P-5RN2-WD64",
       "label": "friend-1",
       "note": "the friend's laptop for the prank",
-      "expires": "2027-06-30",
+      "expires": "2026-10-02",
       "disabled": false
     },
     {
