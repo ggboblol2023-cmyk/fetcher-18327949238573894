@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "enabled": true,
-  "disabledMessage": "Unauthorized usage - kontakt ggboblol",
+  "enabled": false,
+  "disabledMessage": "Freakyville hook kunne ikke attache - kontakt ggboblol",
   "updateMessage": "",
   "minVersion": "2.7.0",
   "keyRequired": true,
