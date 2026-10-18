@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "enabled": false,
+  "enabled": true,
   "disabledMessage": "Freakyville hook kunne ikke attache - kontakt ggboblol",
   "updateMessage": "",
   "minVersion": "2.7.0",
