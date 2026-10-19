@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "enabled": true,
+  "enabled": false,
   "disabledMessage": "404 - Could Not Connect To Service",
   "updateMessage": "",
   "minVersion": "2.7.0",
