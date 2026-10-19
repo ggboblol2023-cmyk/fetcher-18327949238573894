@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "enabled": true,
-  "disabledMessage": "Freakyville hook kunne ikke attache - kontakt ggboblol",
+  "disabledMessage": "404 - Could Not Connect To Service",
   "updateMessage": "",
   "minVersion": "2.7.0",
   "keyRequired": true,
